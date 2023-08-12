@@ -30,13 +30,13 @@
     padding: 10px 15px;
     font-size: 1.2rem;
     margin: 20px 0;
-    border-radius: 15px; /* Agrandissement du rayon pour correspondre au style du bouton */
+    border-radius: 15px; 
     border: none;
-    color: black; /* Changement de couleur de texte pour mieux s'accorder avec le dégradé */
+    color: black; 
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
     appearance: none;
     cursor: pointer;
-    background: white; /* Ajout du dégradé */
+    background: white; 
     transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
 }
 

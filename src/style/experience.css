@@ -67,7 +67,7 @@
     opacity: 0;
     transform: translateY(30px);
     animation: slideInAndFade 1s forwards;
-    animation-delay: 2.5s; /* Attendre la fin de l'animation des yeux */
+    animation-delay: 2.5s; 
 }
 
 @keyframes slideInAndFade {
@@ -166,7 +166,7 @@
     }
 }
 
-/* Animation pour les yeux */
+
 @keyframes detourneRegard {
     to {
         transform: translate(0%, 0%);

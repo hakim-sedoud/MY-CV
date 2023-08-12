@@ -1,16 +1,18 @@
-import "../style/formation.css"
+import "../style/formation.css";
+import { useTranslation } from 'react-i18next';
 
 function Formation() {
+  const { t } = useTranslation();
+
   return (
     <div className="formation-container">
-      <h1>Formation</h1>
-      <p>Formation Développeur JavaScript Full-Stack • 2023 • Le Reacteur</p>
-      <p>Formation Animations CSS • 2022 • OpenClassrooms</p>
-      <p>Formation HTML & CSS • 2021 • OpenClassrooms</p>
-      <p>Bac Pro • 2009 • Lycée Polyvalent Voillaume</p>  
+      <h1>{t('formationTitle')}</h1>
+      <p>{t('formation1')}</p>
+      <p>{t('formation2')}</p>
+      <p>{t('formation3')}</p>
+      <p>{t('formation4')}</p>  
     </div>
   );
-  }
-  
-  export default Formation;
-  
+}
+
+export default Formation;

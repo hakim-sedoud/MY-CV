@@ -46,7 +46,7 @@
     padding-left: 30px;
 }
 
-/* Animations */
+
 @keyframes slideIn {
     from {
         opacity: 0;
@@ -58,7 +58,7 @@
     }
 }
 
-/* Rendu responsive pour tablettes et mobiles */
+
 
 @media (max-width: 768px) {
     .formation-container {

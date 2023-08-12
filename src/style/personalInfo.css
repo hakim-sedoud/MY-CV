@@ -1,5 +1,3 @@
-/* CSS pour la page personalInfo.css */
-
 .personal-info-container {
     font-family: 'Arial', sans-serif;
     max-width: 900px;
@@ -45,16 +43,16 @@
 }
 
 .email-link {
-    text-decoration: none;  /* Enlever le soulignement */
-    color: inherit;         /* Utilisez la même couleur que le texte environnant */
-    cursor: pointer;        /* Changez le curseur pour indiquer qu'il s'agit d'un lien cliquable */
+    text-decoration: none;  
+    color: inherit;         
+    cursor: pointer;        
 }
 
 .email-link:hover {
-    text-decoration: underline;  /* Ajoute un soulignement au survol pour indiquer qu'il s'agit d'un lien */
+    text-decoration: underline;  
 }
 
-/* Animations */
+
 @keyframes slideIn {
     from {
         opacity: 0;
@@ -66,7 +64,7 @@
     }
 }
 
-/* Rendu responsive pour tablettes et mobiles */
+
 @media (max-width: 768px) {
     .personal-info-container {
         max-width: 700px;
