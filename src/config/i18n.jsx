@@ -19,8 +19,8 @@ const resources = {
             "beforeConversion": "Before retraining",
             "afterConversion": "After retraining?",
             "noExperienceText": "Unfortunately, I don't have any experience as a developer yet, but I hope this CV will highlight my skills.",
-            "job1": "PROJECT MANAGER • ALTITUDE INFRASTRUCTURE• JUNE 2022",
-            "job1Desc": "- Pilot projects for burial and rerouting operations in the CALVADOS (14) department",
+            "job1": "PROJECT MANAGER • ALTITUDE INFRASTRUCTURE• 2019",
+            "job1Desc": "- Pilot projects for burial and rerouting operations using ticketing tools in the CALVADOS (14) department",
             "job2": "MAINTENANCE AND AUDIT COORDINATOR • COVAGE NETWORK • 2016-2019",
             "job2Desc": `- Supervise and plan maintenance, expansion, and burial of optical fiber networks.
                          - Optimize inventory and coordinate with providers.
@@ -66,8 +66,8 @@ const resources = {
             "beforeConversion": "Avant la reconversion",
             "afterConversion": "Après reconversion ?",
             "noExperienceText": "Je n'ai malheureusement pas encore d'expérience en tant que développeur, mais j'espère que ce CV mettra en valeur mes compétences.",
-            "job1": "CHARGE DE PROJET • ALTITUDE INFRASTRUCTURE• JUIN 2022",
-            "job1Desc": "- Piloter les opérations d’enfouissements et dévoiements sur le département du CALVADOS (14)",
+            "job1": "CHARGE DE PROJET • ALTITUDE INFRASTRUCTURE• 2019",
+            "job1Desc": "- Piloter les opérations d’enfouissements et dévoiements via des outils de ticketing sur le département du CALVADOS (14)",
             "job2": "COORDINATEUR MAINTENANCE ET AUDIT • COVAGE NETWORK • 2016-2019",
             "job2Desc": `- Supervision et Planification des activités de maintenance, d’extensions, et d’enfouissements des réseaux fibre optique.
                          - Optimisation des stocks et coordination des prestataires.
