@@ -45,7 +45,10 @@ const resources = {
             "email": "Email",
             "phone": "Phone",
             "license": "Driving License",
-            "yes": "yes"             
+            "yes": "yes",
+            "my_projects": "My Projects",
+            "project1_name": "Name of Project 1",
+            "project2_name": "Name of Project 2"             
 
         }
     },
@@ -92,7 +95,10 @@ const resources = {
             "email": "Email",
             "phone": "Téléphone",
             "license": "Permis de conduire",
-            "yes": "oui"
+            "yes": "oui",
+            "my_projects": "Mes Projets",
+            "project1_name": "Nom du Projet 1",
+            "project2_name": "Nom du Projet 2"
         }
     }
 };

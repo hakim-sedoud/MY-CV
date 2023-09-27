@@ -21,6 +21,7 @@ function Header() {
                 <Link className="nav-link" to="/experience" onClick={() => setMenuOpen(false)}>{t('Expérience')}</Link>
                 <Link className="nav-link" to="/formation" onClick={() => setMenuOpen(false)}>{t('Formation')}</Link>
                 <Link className="nav-link" to="/competence" onClick={() => setMenuOpen(false)}>{t('Compétence')}</Link>
+                <Link className="nav-link" to="/projects" onClick={() => setMenuOpen(false)}>{t('Projets')}</Link>
                 <Link className="nav-link" to="/info" onClick={() => setMenuOpen(false)}>{t('Informations personnelles')}</Link>
             </nav>
                 <div className="language-buttons">
