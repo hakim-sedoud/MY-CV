@@ -6,6 +6,7 @@ import Competence from "./pages/Competence";
 import PersonalInfo from "./pages/PersonalInfo";
 import Projects from "./pages/Projects";
 import Header from "./pages/Header";
+import React from "react";
 
 function App() {
   return (
